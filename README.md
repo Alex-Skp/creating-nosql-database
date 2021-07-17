@@ -1,2 +1,2 @@
-# creating-nosql-database
-creating a noSQL datavbase for Udacity nanodegree course 
+# Creating a noSQL database for Udacity Nanodegree Program
+Readme file is WIP
